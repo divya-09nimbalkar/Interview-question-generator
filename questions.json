@@ -1,0 +1,154 @@
+[
+  {
+    "text": "Explain the bias-variance tradeoff and how it affects model selection.",
+    "topic": "Machine Learning",
+    "difficulty": "Beginner",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["regression", "overfitting", "generalization"]
+  },
+  {
+    "text": "Describe the architecture of a transformer model and explain why attention is important.",
+    "topic": "NLP",
+    "difficulty": "Advanced",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["transformers", "attention", "sequence modeling"]
+  },
+  {
+    "text": "What evaluation metrics would you choose for an imbalanced binary classification problem?",
+    "topic": "Machine Learning",
+    "difficulty": "Intermediate",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["classification", "metrics", "imbalance"]
+  },
+  {
+    "text": "How would you approach productionizing an object detection pipeline for video analytics?",
+    "topic": "Computer Vision",
+    "difficulty": "Advanced",
+    "qtype": "Design",
+    "category": "Technical",
+    "tags": ["deployment", "real-time", "scalability"]
+  },
+  {
+    "text": "Write pseudocode for a training loop that uses early stopping and learning rate decay.",
+    "topic": "Deep Learning",
+    "difficulty": "Intermediate",
+    "qtype": "Coding",
+    "category": "Technical",
+    "tags": ["optimization", "training", "regularization"]
+  },
+  {
+    "text": "What are the advantages and disadvantages of using pre-trained embeddings for a text classification task?",
+    "topic": "NLP",
+    "difficulty": "Intermediate",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["embeddings", "transfer learning", "text"]
+  },
+  {
+    "text": "How do you explain model drift to a business stakeholder, and what monitoring signals would you implement?",
+    "topic": "MLOps",
+    "difficulty": "Intermediate",
+    "qtype": "Behavioral",
+    "category": "Operational",
+    "tags": ["drift", "monitoring", "stakeholder communication"]
+  },
+  {
+    "text": "Describe a time when you had to balance model performance and explainability in a deployed system.",
+    "topic": "Behavioral",
+    "difficulty": "Beginner",
+    "qtype": "Behavioral",
+    "category": "Soft Skills",
+    "tags": ["explainability", "trade-offs", "decision making"]
+  },
+  {
+    "text": "Compare and contrast batch normalization and layer normalization in deep neural networks.",
+    "topic": "Deep Learning",
+    "difficulty": "Advanced",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["normalization", "training stability", "architectures"]
+  },
+  {
+    "text": "How would you design an A/B test to validate a recommendation model before full deployment?",
+    "topic": "Data Science",
+    "difficulty": "Intermediate",
+    "qtype": "Design",
+    "category": "Technical",
+    "tags": ["experimentation", "metrics", "causality"]
+  },
+  {
+    "text": "What steps would you take to clean and preprocess a dataset containing missing values, outliers, and categorical features?",
+    "topic": "Data Science",
+    "difficulty": "Beginner",
+    "qtype": "Technical",
+    "category": "Technical",
+    "tags": ["preprocessing", "feature engineering", "data quality"]
+  },
+  {
+    "text": "Explain the difference between L1 and L2 regularization and when you would use each.",
+    "topic": "Machine Learning",
+    "difficulty": "Beginner",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["regularization", "sparsity", "generalization"]
+  },
+  {
+    "text": "Describe how you would implement cross-validation for time-series forecasting.",
+    "topic": "Statistics",
+    "difficulty": "Advanced",
+    "qtype": "Technical",
+    "category": "Technical",
+    "tags": ["forecasting", "cross-validation", "temporal data"]
+  },
+  {
+    "text": "What are the trade-offs between using convolutional neural networks and transformers for image classification?",
+    "topic": "Computer Vision",
+    "difficulty": "Advanced",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["CNN", "transformers", "vision"]
+  },
+  {
+    "text": "Write a SQL query to identify the top 5 features correlated with customer churn from a labeled dataset.",
+    "topic": "Data Science",
+    "difficulty": "Intermediate",
+    "qtype": "Coding",
+    "category": "Technical",
+    "tags": ["sql", "correlation", "feature selection"]
+  },
+  {
+    "text": "When would you prefer a probabilistic model like Naive Bayes over a discriminative model like logistic regression?",
+    "topic": "Machine Learning",
+    "difficulty": "Intermediate",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["probability", "logistic regression", "model selection"]
+  },
+  {
+    "text": "Describe a time when you simplified a machine learning problem to improve model reliability or performance.",
+    "topic": "Behavioral",
+    "difficulty": "Intermediate",
+    "qtype": "Behavioral",
+    "category": "Soft Skills",
+    "tags": ["problem solving", "optimization", "communication"]
+  },
+  {
+    "text": "Explain the difference between precision, recall, and F1 score. When is each metric most appropriate?",
+    "topic": "Statistics",
+    "difficulty": "Beginner",
+    "qtype": "Conceptual",
+    "category": "Technical",
+    "tags": ["metrics", "classification", "evaluation"]
+  },
+  {
+    "text": "How would you set up versioning for datasets, model weights, and deployment artifacts in an MLOps pipeline?",
+    "topic": "MLOps",
+    "difficulty": "Advanced",
+    "qtype": "Design",
+    "category": "Operational",
+    "tags": ["versioning", "pipelines", "reproducibility"]
+  }
+]
